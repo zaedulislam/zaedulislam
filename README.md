@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaed</h1>
-<h3 align="center">Software Engineer & Computer Vision Researcher</h3>
+<h3 align="center">AI-native Software Engineer & Computer Vision Researcher</h3>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaedul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="zaedul-islam" /> </p>
